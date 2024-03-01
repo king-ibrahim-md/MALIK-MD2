@@ -13,7 +13,7 @@ global.gurl = 'king-md.db' // add your username
 global.sudo = process.env.SUDO || '923124533358'
 global.devs = '923124533358';
 global.website = 'https://github.com/arkhan998/MALIK-MD' //wa.me/+91000000000000
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/dce77f7538019d05afe65.jpg'
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/ed324d7e76a4cd50fd96b.jpg'
 module.exports = {
   
   sessionName:  process.env.SESSION_ID ||  "session",
